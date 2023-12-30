@@ -1,0 +1,35 @@
+img{
+    width: 90px; 
+    height: 90px; 
+    border-radius: 100%;
+    object-fit: cover; 
+    border: 4px;
+}
+body {
+    background-image: url(image/bg.jpeg);
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Segoe UI', 'open sans', sans-serif;
+    text-align: center;
+    background-size: 50%;
+    background-color: black;
+
+}
+.card col-lg-4 R-2{
+    text-align: center;
+    
+}
+.card{
+    background-color: rgb(255, 255, 255 ,0.5);
+    color: black;
+}
+.card:hover{
+    background-color: #fff;
+}
+center{
+    text-align: 10px;
+}
